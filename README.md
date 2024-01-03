@@ -12,7 +12,7 @@ Hi! I'm Vladimir Trus
 </p>
 
 
-### Links
-<p align="right">
+## 🔗 Links
+
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vladimir-trus-13b731238/)
-[![telegram](https://img.shields.io/badge/telegram-0088CC?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/trusvladimir)</p>
+[![telegram](https://img.shields.io/badge/telegram-0088CC?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/trusvladimir)
